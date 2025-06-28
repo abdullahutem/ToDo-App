@@ -20,16 +20,6 @@ A clean, modern, and responsive **To-Do List App** built using **Flutter** and *
 
 ---
 
-## 🖼️ Screenshots
-
-| Home Screen | Task Completed | Empty State |
-|-------------|----------------|--------------|
-| ![screenshot1](docs/screenshot1.png) | ![screenshot2](docs/screenshot2.png) | ![screenshot3](docs/screenshot3.png) |
-
-> _You can add these screenshots under a `docs/` folder in the repo._
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
