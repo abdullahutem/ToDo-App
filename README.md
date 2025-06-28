@@ -36,16 +36,6 @@ lib/
 * **Bloc (flutter\_bloc)**
 * **Material Design 3**
 * **Dart**
-
-
-## 👤 Author
-
-**Abdullah Ali Salem Ali**
-
-* 🌍 [LinkedIn](https://www.linkedin.com/in/abdullahtem/)
-* 💼 [GitHub](https://github.com/abdullahtem)
-* 📧 [abdullah.binsama1@gmail.com](mailto:abdullah.binsama1@gmail.com)
-
 ---
 
 ## 📌 TODO (Future Enhancements)
